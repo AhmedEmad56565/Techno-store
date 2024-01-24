@@ -1,0 +1,14 @@
+export { default as mail } from './mail.svg';
+export { default as phone } from './phone.svg';
+export { default as twitter } from './twitter.svg';
+export { default as facebook } from './facebook.svg';
+export { default as instagram } from './instagram.svg';
+export { default as minus } from './minus.svg';
+export { default as plus } from './plus.svg';
+export { default as trash } from './trash.svg';
+export { default as shipping } from './shipping.svg';
+export { default as delivering } from './delivering.svg';
+export { default as payment } from './payment.svg';
+export { default as deals } from './deals.svg';
+export { default as leftArrow } from './left-arrow.svg';
+export { default as rightArrow } from './right-arrow.svg';

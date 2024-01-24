@@ -1,0 +1,2 @@
+1) npm run setup-project
+2) npm run dev
