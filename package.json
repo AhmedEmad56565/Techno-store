@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "setup-project": "npm i && cd backend && npm i",
+    "setup-production-app": "npm i && npm run build && cd backend && npm i",
     "server": "cd backend && nodemon server.js",
+    "server-prod": "cd backend && npm start",
     "client": "vite",
     "dev": "concurrently \" npm run client\" \" npm run server\"",
     "build": "vite build",
